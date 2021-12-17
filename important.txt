@@ -1,0 +1,6 @@
+after pulling open the folder with any ide,
+you will see a file called .envexample, rename it to .env. then change 
+DB_DATABASE=complaint
+make sure you create a db named complaint
+import the complaint.sql file
+then on the terminal type in php artisan migrate

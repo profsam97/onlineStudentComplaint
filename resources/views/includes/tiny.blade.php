@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <script src="https://cdn.tiny.cloud/1/msgok9wfwuklfcuiz5oudtabwsu36p9a2kciaawv1epgvae7/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+    <script src="https://cdn.tiny.cloud/1/m3g9eyibg12cu5uenx1e01hwlx57xw8xuxqolpfpwitxmteo/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
 </head>
 <body>
 <script>
